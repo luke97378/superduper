@@ -1,5 +1,7 @@
 {
-    "Vurl": ["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4", "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"]
+    "Vurl": {
+        "1" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4", 
+        "2": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"}
     "age": 30,
     "email": "john.doe@example.com",
     "hobbies": ["reading", "swimming", "coding"],
