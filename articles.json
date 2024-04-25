@@ -1,16 +1,14 @@
 {
-  "items": [
-    {
-      "name": "Google",
-      "url": "https://www.google.com"
-    },
-    {
-      "name": "GitHub",
-      "url": "https://github.com"
-    },
-    {
-      "name": "Stack Overflow",
-      "url": "https://stackoverflow.com"
-    }
-  ]
+  "keyOne":{
+	"name": "Google",
+	"url": "https://www.google.com"
+  },
+  "keyTwo":{
+	"name": "GitHub",
+	"url": "https://github.com"
+  },
+  "keyThree":{
+	"name": "Stack Overflow",
+	"url": "https://stackoverflow.com"
+}
 }
