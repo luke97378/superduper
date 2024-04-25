@@ -1,14 +1,8 @@
 {
-  "keyOne":{
-	"name": "Google",
-	"url": "https://www.google.com"
-  },
-  "keyTwo":{
-	"name": "GitHub",
-	"url": "https://github.com"
-  },
-  "keyThree":{
-	"name": "Stack Overflow",
-	"url": "https://stackoverflow.com"
-}
+	"keyOne": ["Google","https://www.google.com"
+	],
+	"keyTwo": ["GitHub","https://github.com"
+	],
+	"keyThree": ["Stack Overflow","https://stackoverflow.com"
+]
 }
