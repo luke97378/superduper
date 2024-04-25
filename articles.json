@@ -1,8 +1,8 @@
 {
-	"keyOne": ["Google","https://www.google.com"
+	"keyA": ["Google","https://www.google.com"
 	],
-	"keyTwo": ["GitHub","https://github.com"
+	"keyAB": ["GitHub","https://github.com"
 	],
-	"keyThree": ["Stack Overflow","https://stackoverflow.com"
+	"keyAA": ["Stack Overflow","https://stackoverflow.com"
 ]
 }
