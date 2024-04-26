@@ -1,6 +1,18 @@
 {
-	"keyA": ["ABC", "https://abc.com"],
-	"keyB": ["FOX", "https://fox.com"],
-	"keyC": ["NBC", "https://NBC.com"],
-	"keyD": ["CNBC", "https://CNBC.com"]
+	"keyA": {
+		"title": "ABC",
+		"link": "https://abc.com"
+	},
+	"keyB": {
+		"title": "FOX",
+		"link": "https://fox.com"
+	},
+	"keyC": {
+		"title": "NBC",
+		"link": "https://NBC.com"
+	},
+	"keyD": {
+		"title": "CNBC",
+		"link": "https://CNBC.com"
+	}
 }
