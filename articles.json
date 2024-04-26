@@ -1,8 +1,6 @@
 {
-	"keyA": ["Google","https://www.google.com"
-	],
-	"keyAB": ["GitHub","https://github.com"
-	],
-	"keyAA": ["Stack Overflow","https://stackoverflow.com"
-]
+    "keyA": ["ABC", "https://abc.com"],
+    "keyB": ["FOX", "https://fox.com"],
+    "keyC": ["NBC", "https://NBC.com"],
+    "keyD": ["CNBC", "https://CNBC.com"],
 }
