@@ -1,21 +1,7 @@
 {
-	"keyA": {
-		"title": "ABC",
-		"link": "https://abc.com"
-	},
-	"keyB": {
-		"title": "FOX",
-		"link": "https://fox.com"
-	},
-	"keyC": {
-		"title": "NBC",
-		"link": "https://NBC.com"
-	},
-	"keyD": {
-		"title": "CNBC",
-		"link": "https://CNBC.com"
-	},
-	"keyE": { "title": "USC cancels graduation ceremony and dozens are arrested on other campuses as anti-war protests grow",
-		"link": "https://www.msn.com/en-us/news/us/usc-cancels-graduation-ceremony-and-dozens-are-arrested-on-other-campuses-as-anti-war-protests-grow/ar-AA1nCOtg"
-	}
+	"keyA": ["ABC", "https://abc.com"],
+	"keyB": ["FOX", "https://fox.com"],
+	"keyC": ["NBC", "https://NBC.com"],
+	"keyD": ["CNBC", "https://CNBC.com"],
+	"keyE": ["USC cancels graduation ceremony and dozens are arrested on other campuses as anti-war protests grow", "https://www.msn.com/en-us/news/us/usc-cancels-graduation-ceremony-and-dozens-are-arrested-on-other-campuses-as-anti-war-protests-grow/ar-AA1nCOtg"]
 }
